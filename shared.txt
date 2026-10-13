@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Title: Version B
+=======
+Title: Version A
+>>>>>>> origin/main
